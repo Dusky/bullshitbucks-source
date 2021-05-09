@@ -1,0 +1,3 @@
+usr/local/bin/bullshitbucksd usr/bin
+usr/local/bin/bullshitbucks-cli usr/bin
+debian/examples/bullshitbucks.conf etc/bullshitbucks

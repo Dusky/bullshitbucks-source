@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=BullshitBucks Core
+Comment=BullshitBucks P2P Cryptocurrency
+Comment[fr]=BullshitBucks, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BullshitBucks, eşten eşe kriptografik sanal para birimi
+Exec=bullshitbucks-qt %u
+Terminal=false
+Type=Application
+Icon=bullshitbucks128
+MimeType=x-scheme-handler/bullshitbucks;
+Categories=Office;Finance;
+StartupWMClass=BullshitBucks-qt

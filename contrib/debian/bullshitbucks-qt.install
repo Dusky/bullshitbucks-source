@@ -1,0 +1,6 @@
+usr/local/bin/bullshitbucks-qt usr/bin
+share/pixmaps/bullshitbucks32.xpm usr/share/pixmaps
+share/pixmaps/bullshitbucks16.xpm usr/share/pixmaps
+share/pixmaps/bullshitbucks128.png usr/share/pixmaps
+debian/bullshitbucks-qt.desktop usr/share/applications
+debian/bullshitbucks-qt.protocol usr/share/kde4/services/
